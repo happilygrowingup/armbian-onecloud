@@ -7,6 +7,7 @@
 
 ## First-time login
 
+
 Hostname: `onecloud`
 
 Username: `root`
